@@ -1,0 +1,11 @@
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\obj\Debug\ProgPoeFinal.csproj.AssemblyReference.cache
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\obj\Debug\ProgPoeFinal.MainForm.resources
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\obj\Debug\ProgPoeFinal.Properties.Resources.resources
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\obj\Debug\ProgPoeFinal.csproj.GenerateResource.cache
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\obj\Debug\ProgPoeFinal.csproj.CoreCompileInputs.cache
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\obj\Debug\ProgPoeFinal.NameInputForm.resources
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\bin\Debug\ProgPoeFinal.exe.config
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\bin\Debug\ProgPoeFinal.exe
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\bin\Debug\ProgPoeFinal.pdb
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\obj\Debug\ProgPoeFinal.exe
+C:\Users\ushay\source\repos\ProgPoeFinal\ProgPoeFinal\obj\Debug\ProgPoeFinal.pdb
